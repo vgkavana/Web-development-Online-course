@@ -10,4 +10,6 @@
   <h3>learning about SQL </h3>
   <h2>Lesson5</h2>
   <h3>learning about ORMs,APIs </h3>
+  <h2>lesson6</h2>
+  <h3>learning about Java Script </h3>
   </html>
