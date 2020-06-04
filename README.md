@@ -33,4 +33,8 @@
   <h3>learning about The Web Development Full Stack</h3>
   <h2>lesson2</h2>
   <h3>learning about Creating Web Pages</h3>
+  <h2>lesson3</h2>
+  <h3>learning about JavaScript Fundamentals</h3>
+  <h2>lesson4</h2>
+  <h3>learning about Setting up a Web Server</h3>
   </html>
