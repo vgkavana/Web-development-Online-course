@@ -37,8 +37,8 @@
   <h3>learning about JavaScript Fundamentals</h3>
   <h2>lesson4</h2>
   <h3>learning about Setting up a Web Server</h3>
-  <h2>lesson4</h2>
-  <h3>learning about Programming Fundamentals</h3>
   <h2>lesson5</h2>
+  <h3>learning about Programming Fundamentals</h3>
+  <h2>lesson6</h2>
   <h3>learning about PHP & Backend Code</h3>
   </html>
