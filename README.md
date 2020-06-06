@@ -41,4 +41,8 @@
   <h3>learning about Programming Fundamentals</h3>
   <h2>lesson6</h2>
   <h3>learning about PHP & Backend Code</h3>
+  <h2>lesson7</h2>
+  <h3>learning about PHP & Databasess</h3>
+  <h2>lesson8</h2>
+  <h3>learning about Instering all code together</h3>
   </html>
