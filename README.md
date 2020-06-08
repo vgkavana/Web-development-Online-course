@@ -52,4 +52,8 @@
   <h3>learning about Introduction To Web Design</h3>
   <h2>les2</h2>
   <h3>learning about HTML & CSS</h3>
+  <h2>les3</h2>
+  <h3>learning about Navigation</h3>
+  <h2>les4</h2>
+  <h3>learning about Planning A Website</h3>
   </html>
