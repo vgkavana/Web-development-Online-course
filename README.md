@@ -58,4 +58,6 @@
   <h3>learning about Planning A Website</h3>
   <h2>les5</h2>
   <h3>learning about Digital CV Part 1</h3>
+  <h2>les6</h2>
+  <h3>learning about Digital CV Part 2</h3>
   </html>
