@@ -60,4 +60,6 @@
   <h3>learning about Digital CV Part 1</h3>
   <h2>les6</h2>
   <h3>learning about Digital CV Part 2</h3>
+  <h2>les7</h2>
+  <h3>learning about Digital CV Part 3</h3>
   </html>
