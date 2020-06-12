@@ -62,4 +62,6 @@
   <h3>learning about Digital CV Part 2</h3>
   <h2>les7</h2>
   <h3>learning about Digital CV Part 3</h3>
+  <h2>les8</h2>
+  <h3>learning about Digital CV Part 4</h3>
   </html>
