@@ -66,4 +66,6 @@
   <h3>learning about Digital CV Part 4</h3>
   <h2>les9</h2>
   <h3>learning about Introduction to Web 3.0 - Part 1</h3>
+  <h2>les10</h2>
+  <h3>learning about Introduction to Web 3.0 - Part 2</h3>
   </html>
